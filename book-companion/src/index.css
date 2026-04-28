@@ -1,0 +1,18 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Nunito", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: #ffffff;
+  color: #222;
+   letter-spacing: 0.2px;
+  line-height: 1.5;
+  
+}
+.container {
+  padding: 30px 40px;
+}
